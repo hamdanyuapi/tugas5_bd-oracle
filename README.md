@@ -7,3 +7,6 @@
 ![t5](https://user-images.githubusercontent.com/45725263/147866145-b689df75-37a2-4a13-aab8-d7bb7b3ff825.png)
 4. gunakan query count unutk menampilkan jumlah data dari view
 ![t5](https://user-images.githubusercontent.com/45725263/147866145-b689df75-37a2-4a13-aab8-d7bb7b3ff825.png)
+Buat menu tampil data unutk master data
+![Screenshot (126)](https://user-images.githubusercontent.com/45725263/147866204-d58e5150-2874-4d0b-8bab-bbe408b29f56.png)
+![Screenshot (127)](https://user-images.githubusercontent.com/45725263/147866207-5b55737e-81d3-49b0-ada3-92a6dbd48233.png)
